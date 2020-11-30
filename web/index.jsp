@@ -13,7 +13,7 @@
   <head>
     <link href="css/bootstrap.min.css"  rel="stylesheet"/>
     <link  href="css/style.css" rel="stylesheet" type="text/css"/>
-    <title>网上书店</title>
+    <title>网上书店 version1.2</title>
   </head>
 
   <body onload="initAJAX()">
